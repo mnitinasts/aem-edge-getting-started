@@ -1,9 +1,9 @@
 {
   "mappings": [
-    "/content/nitin-site/:/",
-    "/content/nitin-site/configuration:/.helix/config.json",
+    "/content/nitin-xwalk/:/",
+    "/content/nitin-xwalk/configuration:/.helix/config.json",
   ],
   "includes": [
-    "/content/nitin-site/"
+    "/content/nitin-xwalk/"
   ]
 }
