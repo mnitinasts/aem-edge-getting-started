@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/nitin-xwalk/:/",
-    "/content/nitin-xwalk/configuration:/.helix/config.json",
+    "/content/nitin-xwalk/configuration:/.helix/config.json"
   ],
   "includes": [
     "/content/nitin-xwalk/"
