@@ -1,7 +1,9 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/nitin-site/:/",
+    "/content/nitin-site/configuration:/.helix/config.json",
+  ],
+  "includes": [
+    "/content/nitin-site/"
   ]
 }
